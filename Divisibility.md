@@ -1,0 +1,18 @@
+- 2 - last nos 0 or even
+- 3 - sum of digits mod 3 is 0
+- 4 - last two digits mod 4 is 0
+- 5 - ends with 0 or 5
+- 6 - divisible by both 2 and 3
+- 7 - last digit double and subtract from left-over(2045, then 204-10)
+- 8 - last 3 digit  mod 8 is 0
+- 9 - sum of digits mod 9 is 0
+- 10 - ends with 0
+- 11- difference in sum of nos in even place to odd place
+- 12 - divisible by 3 and 4
+- 13 - last digit four and add from left-over(2045, then 204+20)
+- 14 - divisible by 2 and 7
+- 15 - by 3 and 5
+- 16 - last 4 digits mod 16 is 0
+- 17 - subtract 5 times the last digit in the remaining nos( similar to 7)
+- 19 - 2 and 9
+- 20 - 2 and 10

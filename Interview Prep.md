@@ -1,0 +1,6 @@
+- [[Aptitude]]
+- [[Coding]]
+- [[CS Core Subjects]]
+- [[Skill]]
+- [[HR]]
+- 
