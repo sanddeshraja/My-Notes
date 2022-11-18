@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "3818d99910766e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c3b016fee5031b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef86a6277cbdfec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58b5da622fb9800b",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a40515aa05a9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0461eb6a47323f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f340d454e46f41c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a401bd385cb1fdd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bd31049bb9e3f43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07b3c380a6d8eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4062dc39a0e772d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce2b582aad75abb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99a62f4b488c840e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ca1ca34b4681433",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT.md"
+              }
+            }
+          },
+          {
+            "id": "07196287dc98f999",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b590e9923d94d192",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ef86a6277cbdfec1",
+  "lastOpenFiles": [
+    "WEB.md",
+    "Skill.md",
+    "DSA.md",
+    "JAVA.md",
+    "GIT.md",
+    "DJANGO.md",
+    "Interview Prep.md",
+    "Mixture and Allegations.md",
+    "Logical Reasoning.md",
+    "EVOLUTION of DBMS.md"
+  ]
+}

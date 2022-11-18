@@ -1,0 +1,10 @@
+- [[Numbers]]
+- [[Divisibility]]
+- [[Factors]]
+- [[HCF and LCM]]
+- [[Remainder]]
+- [[Percentage (Very Hard)]]
+- [[Average]]
+- [[Ratio and Proportion]]
+- [[Mixture and Allegations]]
+- 
